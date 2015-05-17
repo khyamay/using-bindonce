@@ -26,5 +26,4 @@ ng-repeat="user in ::users"
 ```
 ```
 ng-bind="::user.name"
-
 ```
